@@ -8,6 +8,8 @@ easy `CORS handling` for "all" languages. please send a `pull request` :)
 
 -- [ ] php (learn more on php directory)
 
+-- [ ] go (learn more on go directory)
+
 more languge support soon
 
 ## how to work:
@@ -18,3 +20,11 @@ more languge support soon
 
 
 ## import `CORS-handle` package
+
+go : `go get github.com/ama-coder/cors-handle/go`
+
+js : `npm || yarn install cors-handel`
+
+php : 1. `git clone https://github.com/ama-coder/CORS-Handle.git` 2. copy `CORS-Handle/php/CORS-Handle.php` on your project directory 3. add `include || requaire CORS-Handle.php` on  ypur code
+
+python : 
