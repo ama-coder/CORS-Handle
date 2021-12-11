@@ -6,4 +6,4 @@ easy `CORS handling` for "all" languages. please send a `pull request` :)
 [import][IMP] `CORS-handle` to your project.
 
 
-[IMP:] ## import `CORS-handle` package
+[IMP]: ## import `CORS-handle` package
