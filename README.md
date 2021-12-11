@@ -3,7 +3,9 @@ easy `CORS handling` for "all" languages. please send a `pull request` :)
 
 ## supported languges :
 -- [ ] node js (learn more on JS directory)
+
 -- [ ] python (learn more on python directory)
+
 -- [ ] php (learn more on php directory)
 
 more languge support soon
